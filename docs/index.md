@@ -68,7 +68,7 @@ As a published ACM author, you and your co-authors are subject to all ACM Public
 We follow the ACM policy on authorship requirements. Specifically on the use of generative AI tools and technologies, the guidelines note that: "The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the Work. For example, the authors could include the following statement in the Acknowledgements section of the Work: ChatGPT was utilized to generate sections of this Work, including text, tables, graphs, code, data, citations, etc.). If you are uncertain about the need to disclose the use of a particular tool, err on the side of caution, and include a disclosure in the acknowledgements section of the Work."
 
 ## Contact Information
-For questions or clarifications, please contact: wsdm2@causalbench.org
+For questions or clarifications, please contact: <wsdm26@causalbench.org>
 
 ## Acknowledgements
 We thank all the contributors and the community for their continuous support and feedback in making CausalBench a reliable and valuable resource for causal learning research.
