@@ -1,6 +1,7 @@
-site_name: CausalBench WSDM'26 Workshop
+site_name: WSDM Workshop on Benchmarking Causal Models (CausalBench'26)
 nav:
   - Home: index.md
+  - Visit CausalBench: "https://causalbench.org"
 
 theme:
   name: mkdocs

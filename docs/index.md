@@ -1,6 +1,9 @@
-# CausalBench WSDM26 Workshop
+# WSDM Workshop on Benchmarking Causal Models (CausalBench'26)
 
-[![WSDM Logo](resources/images/wsdmlogo.png)](https://wsdm-conference.org/2026/)
+|  |  | 
+|:--:|:--:|
+|[![WSDM Logo](resources/images/wsdmlogo.png)](https://wsdm-conference.org/2026/)| [![CausalBench Logo](resources/images/cblogo.png)](https://causalbench.org)|
+
 
 ## Schedule
 The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/), on February 26, 2026, in Boise, Idaho, USA.
@@ -66,3 +69,7 @@ We follow the ACM policy on authorship requirements. Specifically on the use of 
 
 ## Contact Information
 For questions or clarifications, please contact: wsdm2@causalbench.org
+
+## Acknowledgements
+We thank all the contributors and the community for their continuous support and feedback in making CausalBench a reliable and valuable resource for causal learning research.
+This workshop is funded by NSF Grant 2311716, "CausalBench: A Cyberinfrastructure for Causal-Learning Benchmarking for Efficacy, Reproducibility, and Scientific Collaboration", and NSF Grants #2230748, "PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems", #2412115, "PIPP Phase II: Analysis and Prediction of Pandemic Expansion (APPEX)" and USACE #GR40695, "Designing nature to enhance resilience of built infrastructure in western US landscapes".
