@@ -21,6 +21,7 @@ By encouraging open exchange on datasets and metrics, the workshop aims to catal
 
 ## Topics of Interest
 CausalBench welcomes submissions in the following research and application areas:
+
 - **Benchmarking and Evaluation:** Software frameworks, datasets, standard workflows/pipelines, and metrics for evaluating causal learning algorithms.
 - **Algorithmic Advances:** Novel causal discovery and causal inference models/algorithms with reproducible benchmarking results.
 - **Data and Systems:** Open-source platforms for data exchange, (automatic) model evaluation, and reproducing results for any causality related research problems: e.g., causal inference, causal discovery, causal representation learning, and causal recommendation.
