@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="auto">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="None">
+        
+        
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>WSDM Workshop on Benchmarking Causal Models (CausalBench'26)</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/fontawesome.min.css" rel="stylesheet">
+        <link href="css/brands.min.css" rel="stylesheet">
+        <link href="css/solid.min.css" rel="stylesheet">
+        <link href="css/v4-font-face.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" disabled>
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href=".">WSDM Workshop on Benchmarking Causal Models (CausalBench'26)</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="." class="nav-link active" aria-current="page">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://causalbench.org" class="nav-link">Visit CausalBench</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item dropdown">
+                              <button id="theme-menu" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme" class="nav-link dropdown-toggle">
+                                <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                <span class="d-lg-none ms-2">Toggle theme</span>
+                              </button>
+                              <ul class="dropdown-menu dropdown-menu-end">
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                                    <i class="fa-solid fa-sun fa-fw"></i>
+                                    <span class="ms-2">Light</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                                    <i class="fa-solid fa-moon fa-fw"></i>
+                                    <span class="ms-2">Dark</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="true">
+                                    <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                    <span class="ms-2">Auto</span>
+                                    <i class="fa-solid fa-check ms-auto"></i>
+                                  </button>
+                                </li>
+                              </ul>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script src="js/darkmode.js"></script>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#wsdm-workshop-on-benchmarking-causal-models-causalbench26" class="nav-link">WSDM Workshop on Benchmarking Causal Models (CausalBench'26)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#schedule" class="nav-link">Schedule</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#overview" class="nav-link">Overview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#topics-of-interest" class="nav-link">Topics of Interest</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#submission-guidelines" class="nav-link">Submission Guidelines</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#artifacts-and-reproducibility" class="nav-link">Artifacts and Reproducibility</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#important-dates" class="nav-link">Important Dates</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#organizers" class="nav-link">Organizers</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#duplicate-submissions-and-novelty-requirements" class="nav-link">Duplicate Submissions and Novelty Requirements</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#inclusion-and-diversity" class="nav-link">Inclusion and Diversity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#conflicts-of-interest" class="nav-link">Conflicts of Interest</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#acm-publications-policy-on-research-involving-human-participants-and-subjects" class="nav-link">ACM Publications Policy on Research Involving Human Participants and Subjects</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#policy-on-authorship-requirements-and-genai" class="nav-link">Policy on Authorship Requirements and GenAI</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#contact-information" class="nav-link">Contact Information</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#acknowledgements" class="nav-link">Acknowledgements</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="wsdm-workshop-on-benchmarking-causal-models-causalbench26">WSDM Workshop on Benchmarking Causal Models (CausalBench'26)</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://wsdm-conference.org/2026/"><img alt="WSDM Logo" src="resources/images/wsdmlogo.png" /></a></td>
+<td style="text-align: center;"><a href="https://causalbench.org"><img alt="CausalBench Logo" src="resources/images/cblogo.png" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="schedule">Schedule</h2>
+<p>The workshop will take place during <a href="https://wsdm-conference.org/2026/">WSDM'26</a>, on February 26, 2026, in Boise, Idaho, USA.</p>
+<h2 id="overview">Overview</h2>
+<p>The WSDM Workshop on Benchmarking Causal Models (CausalBench) aims to promote scientific collaboration, reproducibility, and fairness in causal learning research by providing a dedicated venue for work on benchmarking data, algorithms, models, and metrics for causal learning. CausalBench addresses the growing need for unified, publicly available, and configurable benchmarks that support causal discovery, causal effect estimation, and more general causal inference and learning research problems (e.g., A/B testing, experimental design, mechanistic interpretability, causal reasoning and causal RL etc.) across diverse applications, such as web search, data mining, public health, and sustainability.</p>
+<p>Standardized evaluation has historically driven progress in machine learning, as seen with UCI ML and KDD repositories, by encouraging collaborative research and reproducible science. The causal learning community now faces similar challenges: lack of unified benchmark datasets, algorithms, and metrics for reproducible evaluation. CausalBench workshop aims to</p>
+<ul>
+<li>help identify existing datasets and metrics for causal learning and integrate them into standardized evaluation protocols,
+encourage coverage, calibration, and uncertainty reporting for causal estimates,</li>
+<li>develop ontologies for benchmarking, improving transparency and collaboration,</li>
+<li>address challenges of incomplete causal knowledge and integration of heterogeneous datasets, and</li>
+<li>help define evaluation standards to scientifically quantify progress in causal learning.</li>
+</ul>
+<p>The workshop will bring together researchers and practitioners to discuss new algorithms, datasets, and evaluation methodologies that help establish trust in causal learning innovation. Our goal is to foster discussion and community practices that make evaluation more transparent and comparable across different causal tasks—e.g., clarifying task taxonomies, surfacing assumption-linked metrics, and sharing accessible benchmark resources and artifacts.</p>
+<p>By encouraging open exchange on datasets and metrics, the workshop aims to catalyze incremental, evidence-based improvements to causal evaluation.</p>
+<h2 id="topics-of-interest">Topics of Interest</h2>
+<p>CausalBench welcomes submissions in the following research and application areas:</p>
+<ul>
+<li><strong>Benchmarking and Evaluation:</strong> Software frameworks, datasets, standard workflows/pipelines, and metrics for evaluating causal learning algorithms.</li>
+<li><strong>Algorithmic Advances:</strong> Novel causal discovery and causal inference models/algorithms with reproducible benchmarking results.</li>
+<li><strong>Data and Systems:</strong> Open-source platforms for data exchange, (automatic) model evaluation, and reproducing results for any causality related research problems: e.g., causal inference, causal discovery, causal representation learning, and causal recommendation.</li>
+<li><strong>Trustworthy AI:</strong> causality-inspired methods, datasets, or metrics for benchmarking any aspect of trustworthiness of various AI systems and methods, including interpretability, safety, robustness, bias, and fairness.</li>
+<li><strong>Applications:</strong> Real-world demonstrations of causal benchmarking in domains, such as healthcare, finance, sustainability, and social systems—with a particular emphasis on applications in web search and data mining.</li>
+</ul>
+<p>Additional thematic sessions (e.g., invited talks, panels) will be held on emerging challenges in causal benchmarking.</p>
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+<ul>
+<li><strong>Submission Site:</strong> <a href="https://easychair.org/my/conference?conf=causalbench26">​​https://easychair.org/my/conference?conf=causalbench26</a></li>
+<li><strong>Format:</strong> Submissions must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM SIG Proceedings Template double-column format</a>, with a font size no smaller than 9pt.</li>
+<li><strong>Length:</strong> We invite submissions of extended abstracts (2-3 pages, excluding references) and research articles (4-6 pages, excluding references) that align with the workshop's themes.</li>
+<li><strong>File Type:</strong> PDF, maximum file size 10 MB.</li>
+<li><strong>Review Process:</strong> Single-blind review.</li>
+<li><strong>Accepted Papers:</strong> All accepted papers will be presented at the workshop and included in the official WSDM Companion Proceedings Volume.</li>
+</ul>
+<h2 id="artifacts-and-reproducibility">Artifacts and Reproducibility</h2>
+<p>Submissions are encouraged to emphasize reproducibility, benchmark availability, and evaluation methodology. Authors are encouraged to make public and include links to code, datasets, experimental setups, and other supporting materials. While not required, the authors are also encouraged to share the relevant artifacts (data, model, metric, and benchmark runs) on <a href="https://causalbench.org">CausalBench’s repositories</a>. </p>
+<h2 id="important-dates">Important Dates</h2>
+<p>All deadlines are at <strong>11:59 PM (Anywhere on Earth)</strong> unless otherwise noted.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Stage</strong></td>
+<td><strong>Date</strong></td>
+</tr>
+<tr>
+<td>Paper Submission Deadline</td>
+<td>Nov 13, 2025</td>
+</tr>
+<tr>
+<td>Author Notification</td>
+<td>Dec 18, 2025</td>
+</tr>
+<tr>
+<td>Camera-ready Deadline</td>
+<td>TBD</td>
+</tr>
+<tr>
+<td>Workshop Date</td>
+<td>Feb 26, 2026</td>
+</tr>
+</tbody>
+</table>
+<h2 id="organizers">Organizers</h2>
+<h3 id="general-chairs">General Chairs</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><img alt="" src="resources/images/candan.jpg" /></td>
+<td style="text-align: center;"><img alt="" src="resources/images/liu.jpg" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">K. Selçuk Candan</td>
+<td style="text-align: center;">Huan Liu</td>
+</tr>
+<tr>
+<td style="text-align: center;">Arizona State University</td>
+<td style="text-align: center;">Arizona State University</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#97;&#110;&#100;&#97;&#110;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;">&#99;&#97;&#110;&#100;&#97;&#110;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: center;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#117;&#97;&#110;&#108;&#105;&#117;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;">&#104;&#117;&#97;&#110;&#108;&#105;&#117;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="program-chairs">Program Chairs</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><img alt="" src="resources/images/guo.jpg" /></td>
+<td style="text-align: center;"><img alt="" src="resources/images/sheth.jpg" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ruocheng Guo</td>
+<td style="text-align: center;">Paras Sheth</td>
+</tr>
+<tr>
+<td style="text-align: center;">Intuit AI Research</td>
+<td style="text-align: center;">Amazon</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#117;&#111;&#99;&#104;&#101;&#110;&#103;&#95;&#103;&#117;&#111;&#64;&#105;&#110;&#116;&#117;&#105;&#116;&#46;&#99;&#111;&#109;">&#114;&#117;&#111;&#99;&#104;&#101;&#110;&#103;&#95;&#103;&#117;&#111;&#64;&#105;&#110;&#116;&#117;&#105;&#116;&#46;&#99;&#111;&#109;</a></td>
+<td style="text-align: center;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#115;&#104;&#101;&#116;&#64;&#97;&#109;&#97;&#122;&#111;&#110;&#46;&#99;&#111;&#109;">&#112;&#97;&#114;&#115;&#104;&#101;&#116;&#64;&#97;&#109;&#97;&#122;&#111;&#110;&#46;&#99;&#111;&#109;</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Web Chair</th>
+<th style="text-align: center;">Publicity Chair</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><img alt="" src="resources/images/kapkic.jpg" /></td>
+<td style="text-align: center;"><img alt="" src="resources/images/mandal.jpg" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ahmet Kapkiç</td>
+<td style="text-align: center;">Pratanu Mandal</td>
+</tr>
+<tr>
+<td style="text-align: center;">Arizona State University</td>
+<td style="text-align: center;">Arizona State University</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#107;&#97;&#112;&#107;&#105;&#99;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;">&#97;&#107;&#97;&#112;&#107;&#105;&#99;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: center;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#109;&#97;&#110;&#100;&#97;&#108;&#53;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;">&#112;&#109;&#97;&#110;&#100;&#97;&#108;&#53;&#64;&#97;&#115;&#117;&#46;&#101;&#100;&#117;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="duplicate-submissions-and-novelty-requirements">Duplicate Submissions and Novelty Requirements</h2>
+<p>All submissions will undergo a rigorous peer-review process to ensure quality and originality. Submissions must present original work not under review elsewhere. Concurrent submission to other venues is not permitted. Papers must cite prior work appropriately, including authors’ own related publications. The submitted paper must <strong>substantially</strong> differ from earlier workshop papers by the same authors.</p>
+<h2 id="inclusion-and-diversity">Inclusion and Diversity</h2>
+<p>CausalBench embraces the values of diversity and inclusion in writing, participation, and representation. Authors should use inclusive language and examples that avoid stereotyping or marginalization of any group.</p>
+<h2 id="conflicts-of-interest">Conflicts of Interest</h2>
+<p>Authors must declare any conflicts of interest with organizers or reviewers (e.g., recent collaborations, shared affiliations, advisor/advisee relationships). Submissions with incorrect conflict declarations are subject to rejection.</p>
+<h2 id="acm-publications-policy-on-research-involving-human-participants-and-subjects">ACM Publications Policy on Research Involving Human Participants and Subjects</h2>
+<p>As a published ACM author, you and your co-authors are subject to all ACM Publications Policies, including ACM's new Publications Policy on Research Involving Human Participants and Subjects.</p>
+<h2 id="policy-on-authorship-requirements-and-genai">Policy on Authorship Requirements and GenAI</h2>
+<p>We follow the ACM policy on authorship requirements. Specifically on the use of generative AI tools and technologies, the guidelines note that: <em>"The use of generative AI tools and technologies to create content is permitted but must be <u>fully disclosed in the Work</u>. For example, the authors could include the following statement in the Acknowledgements section of the Work: ChatGPT was utilized to generate sections of this Work, including text, tables, graphs, code, data, citations, etc.). If you are uncertain about the need to disclose the use of a particular tool, err on the side of caution, and <u>include a disclosure in the acknowledgements section of the Work.</u>"</em></p>
+<h2 id="contact-information">Contact Information</h2>
+<p>For questions or clarifications, please contact: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#115;&#100;&#109;&#50;&#54;&#64;&#99;&#97;&#117;&#115;&#97;&#108;&#98;&#101;&#110;&#99;&#104;&#46;&#111;&#114;&#103;">&#119;&#115;&#100;&#109;&#50;&#54;&#64;&#99;&#97;&#117;&#115;&#97;&#108;&#98;&#101;&#110;&#99;&#104;&#46;&#111;&#114;&#103;</a></p>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>We thank all the contributors and the community for their continuous support and feedback in making CausalBench a reliable and valuable resource for causal learning research.
+This workshop is funded by NSF Grant 2311716, "CausalBench: A Cyberinfrastructure for Causal-Learning Benchmarking for Efficacy, Reproducibility, and Scientific Collaboration", and NSF Grants #2230748, "PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems", #2412115, "PIPP Phase II: Analysis and Prediction of Pandemic Expansion (APPEX)" and USACE #GR40695, "Designing nature to enhance resilience of built infrastructure in western US landscapes".</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js"></script>
+        <script src="search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.6.1
+Build Date UTC : 2025-10-23 04:09:12.312664+00:00
+-->
