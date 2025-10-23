@@ -10,13 +10,17 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 
 ## Overview
 The WSDM Workshop on Benchmarking Causal Models (CausalBench) aims to promote scientific collaboration, reproducibility, and fairness in causal learning research by providing a dedicated venue for work on benchmarking data, algorithms, models, and metrics for causal learning. CausalBench addresses the growing need for unified, publicly available, and configurable benchmarks that support causal discovery, causal effect estimation, and more general causal inference and learning research problems (e.g., A/B testing, experimental design, mechanistic interpretability, causal reasoning and causal RL etc.) across diverse applications, such as web search, data mining, public health, and sustainability.
+
 Standardized evaluation has historically driven progress in machine learning, as seen with UCI ML and KDD repositories, by encouraging collaborative research and reproducible science. The causal learning community now faces similar challenges: lack of unified benchmark datasets, algorithms, and metrics for reproducible evaluation. CausalBench workshop aims to
-help identify existing datasets and metrics for causal learning and integrate them into standardized evaluation protocols,
+
+- help identify existing datasets and metrics for causal learning and integrate them into standardized evaluation protocols,
 encourage coverage, calibration, and uncertainty reporting for causal estimates,
-develop ontologies for benchmarking, improving transparency and collaboration,
-address challenges of incomplete causal knowledge and integration of heterogeneous datasets, and
-help define evaluation standards to scientifically quantify progress in causal learning.
+- develop ontologies for benchmarking, improving transparency and collaboration,
+- address challenges of incomplete causal knowledge and integration of heterogeneous datasets, and
+- help define evaluation standards to scientifically quantify progress in causal learning.
+
 The workshop will bring together researchers and practitioners to discuss new algorithms, datasets, and evaluation methodologies that help establish trust in causal learning innovation. Our goal is to foster discussion and community practices that make evaluation more transparent and comparable across different causal tasks—e.g., clarifying task taxonomies, surfacing assumption-linked metrics, and sharing accessible benchmark resources and artifacts.
+
 By encouraging open exchange on datasets and metrics, the workshop aims to catalyze incremental, evidence-based improvements to causal evaluation.
 
 ## Topics of Interest
