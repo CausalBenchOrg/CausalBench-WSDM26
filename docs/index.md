@@ -30,15 +30,15 @@ CausalBench welcomes submissions in the following research and application areas
 Additional thematic sessions (e.g., invited talks, panels) will be held on emerging challenges in causal benchmarking.
 
 ## Submission Guidelines
-- **Submission Site:** ​​https://easychair.org/my/conference?conf=causalbench26
-- **Format:** Submissions must be formatted according to the ACM SIG Proceedings Template double-column format, with a font size no smaller than 9ptuse the latest ACM format.
-- **Length:** We invite submissions of extended abstracts (2-3 pages, excluding references) and researchreserach articles (4-6 pages, excluding references) that align with the workshop's themes.Submissions should not exceed 2-6  pages (excluding references).
+- **Submission Site:** [​​https://easychair.org/my/conference?conf=causalbench26](https://easychair.org/my/conference?conf=causalbench26)
+- **Format:** Submissions must be formatted according to the [ACM SIG Proceedings Template double-column format](https://www.acm.org/publications/proceedings-template), with a font size no smaller than 9pt.
+- **Length:** We invite submissions of extended abstracts (2-3 pages, excluding references) and research articles (4-6 pages, excluding references) that align with the workshop's themes.
 - **File Type:** PDF, maximum file size 10 MB.
 - **Review Process:** Single-blind review.
 - **Accepted Papers:** All accepted papers will be presented at the workshop and included in the official WSDM Companion Proceedings Volume.
 
 ## Artifacts and Reproducibility
-Submissions are encouraged to emphasize reproducibility, benchmark availability, and evaluation methodology. Authors are encouraged to make public and include links to code, datasets, experimental setups, and other supporting materials. While not required, the authors are also encouraged to share the relevant artifacts (data, model, metric, and benchmark runs) on CausalBench’s repositories.
+Submissions are encouraged to emphasize reproducibility, benchmark availability, and evaluation methodology. Authors are encouraged to make public and include links to code, datasets, experimental setups, and other supporting materials. While not required, the authors are also encouraged to share the relevant artifacts (data, model, metric, and benchmark runs) on [CausalBench’s repositories](https://causalbench.org). 
 
 ## Important Dates
 All deadlines are at **11:59 PM (Anywhere on Earth)** unless otherwise noted.
@@ -77,7 +77,7 @@ All deadlines are at **11:59 PM (Anywhere on Earth)** unless otherwise noted.
 |<akapkic@asu.edu>|<pmandal5@asu.edu>|
 
 ## Duplicate Submissions and Novelty Requirements
-All submissions will undergo a rigorous peer-review process to ensure quality and originality. Submissions must present original work not under review elsewhere. Concurrent submission to other venues is not permitted. Papers must cite prior work appropriately, including authors’ own related publications. The submitted paper must substantially differ from earlier workshop papers by the same authors.
+All submissions will undergo a rigorous peer-review process to ensure quality and originality. Submissions must present original work not under review elsewhere. Concurrent submission to other venues is not permitted. Papers must cite prior work appropriately, including authors’ own related publications. The submitted paper must **substantially** differ from earlier workshop papers by the same authors.
 
 ## Inclusion and Diversity
 CausalBench embraces the values of diversity and inclusion in writing, participation, and representation. Authors should use inclusive language and examples that avoid stereotyping or marginalization of any group.
