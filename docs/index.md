@@ -81,6 +81,21 @@ All deadlines are at **11:59 PM (Anywhere on Earth)** unless otherwise noted.
 |Arizona State University|Arizona State University|
 |<akapkic@asu.edu>|<pmandal5@asu.edu>|
 
+### PC Members
+- Aman Chadha,	Apple Inc/Stanford University
+- Chengshuai Zhao,	Arizona State University
+- Feng Vic,	Harvard University
+- Kaida Zhang,	Amazon
+- Lyu Yi,	University of Wisconsin-Madison
+- Mustafa Bozdag,	Amazon
+- Pulkit Verma,	Massachusetts Institute of Technology
+- Shicheng Fan,	University of Illinois Chicago
+- Shu Wan,	Arizona State University
+- Tom Heffernan, Worcester Polytechnic Institute
+- Weiyi Qin,	Rutgets University
+- Yu Mao,	City University of Hong Kong
+- Yunfan Hu,	Amazon
+
 ## Duplicate Submissions and Novelty Requirements
 All submissions will undergo a rigorous peer-review process to ensure quality and originality. Submissions must present original work not under review elsewhere. Concurrent submission to other venues is not permitted. Papers must cite prior work appropriately, including authors’ own related publications. The submitted paper must **substantially** differ from earlier workshop papers by the same authors.
 
