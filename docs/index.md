@@ -51,7 +51,7 @@ All deadlines are at **11:59 PM (Anywhere on Earth)** unless otherwise noted.
 | | |
 |-|-|
 |**Stage**|**Date**|
-|Paper Submission Deadline|~~Nov 13, 2025~~ **Extended to** Nov 30, 2025!|
+|Paper Submission Deadline|~~Nov 13, 2025~~ **Extended to** Dec 7, 2025!|
 |Author Notification|Dec 18, 2025|
 |Camera-ready Deadline|TBD|
 |Workshop Date|Feb 26, 2026|
