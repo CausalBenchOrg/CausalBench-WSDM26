@@ -24,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs
+          pip install mkdocs-pymdownx-material-extras
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
