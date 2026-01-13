@@ -8,6 +8,21 @@
 ## Schedule
 The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/), on February 26, 2026, in Boise, Idaho, USA.
 
+### Workshop Schedule
+TBA
+
+### Accepted Papers
+- "Causal Reasoning in the Era of Large Language Models"; Raha Moraffah
+- "Causal Discovery for Biology: From Molecular to Disease Networks"; Lu Cheng
+- "CausalBench+: Causal-Informed Machine Learning Benchmarking"; Ahmet Kapkic, Pratanu Mandal, Abhinav Gorantla, Shu Wan, Ertugrul Coban, Huan Liu, K. Selcuk Candan
+- "From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries"; Hitesh Wadhwa, Rahul Seetharaman, Somyaa Aggarwal, Reshmi Ghosh, Samyadeep Basu, Soundararajan Srinivasan, Wenlong Zhao, Shreyas Chaudhari, Ehsan Aghazedeh
+- "ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity"; Mahmudur Rahman, Sanskar Tewatia, Dhruv Garg
+- "Confounding Robust Deep Reinforcement Learning: A Causal Approach"; Junzhe Zhang, Mingxuan Li, Elias Bareinboim
+- "Evaluation in Social Media Research: Challenges and Opportunities"; Reza Zafarani
+- "Learning Causality with Graphs"; Jundong Li
+- "A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation"; Shuhan Yuan, Lu Zhang
+- "Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG"; Pradeepthi Mallappa
+
 ## Overview
 The WSDM Workshop on Benchmarking Causal Models (CausalBench) aims to promote scientific collaboration, reproducibility, and fairness in causal learning research by providing a dedicated venue for work on benchmarking data, algorithms, models, and metrics for causal learning. CausalBench addresses the growing need for unified, publicly available, and configurable benchmarks that support causal discovery, causal effect estimation, and more general causal inference and learning research problems (e.g., A/B testing, experimental design, mechanistic interpretability, causal reasoning and causal RL etc.) across diverse applications, such as web search, data mining, public health, and sustainability.
 
