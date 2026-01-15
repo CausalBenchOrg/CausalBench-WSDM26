@@ -103,13 +103,14 @@ All deadlines are at **11:59 PM (Anywhere on Earth)** unless otherwise noted.
 - Kaida Zhang,	Amazon
 - Lyu Yi,	University of Wisconsin-Madison
 - Mustafa Bozdag,	Amazon
-- Pulkit Verma,	Massachusetts Institute of Technology
+- Pulkit Verma,	Indian Institute of Technology, Madras
 - Shicheng Fan,	University of Illinois Chicago
 - Shu Wan,	Arizona State University
 - Tom Heffernan, Worcester Polytechnic Institute
 - Weiyi Qin,	Rutgets University
 - Yu Mao,	City University of Hong Kong
 - Yunfan Hu,	Amazon
+- Josh Rountree, Massachusetts Institute of Technology
 
 ## Duplicate Submissions and Novelty Requirements
 All submissions will undergo a rigorous peer-review process to ensure quality and originality. Submissions must present original work not under review elsewhere. Concurrent submission to other venues is not permitted. Papers must cite prior work appropriately, including authors’ own related publications. The submitted paper must **substantially** differ from earlier workshop papers by the same authors.
