@@ -11,6 +11,12 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 ### Workshop Schedule
 TBA
 
+### Keynote - **Evaluating Causal Assistants**
+By Vasilis Syrgkanis - Stanford University
+
+**Speaker Bio**: Vasilis Syrgkanis is an Assistant Professor of Management Science and Engineering and (by courtesy) of Computer Science and Electrical Engineering, in the School of Engineering at Stanford University and a member of the Institute for Computational and Mathematical Engineering. His research interests lie in the areas of machine learning, causal inference, econometrics, online and reinforcement learning, game theory, mechanism design and algorithm design. Until August 2022, he was a Principal Researcher at Microsoft Research, New England, where he was a member of the EconCS and StatsML groups. During his time at Microsoft, he co-led the project on Automated Learning and Intelligence for Causation and Economics (ALICE) and was a co-founder of EconML, an open-source python package for causal machine learning. He received his Ph.D. in Computer Science from Cornell University. His research has received best paper awards at several top tier machine learning and AI conferences (ACM EC, NeurIPS, COLT). He is the recipient of a 2022 Amazon Research Award, a 2023 Google Research Scholar Award, the 2023 Bodossaki Distinguished Young Scientist Award, a 2024 NSF CAREER Award and a 2025 Balakrishnan Early Career Award.
+
+
 ### Accepted Papers
 - "Causal Reasoning in the Era of Large Language Models"; Raha Moraffah
 - "Causal Discovery for Biology: From Molecular to Disease Networks"; Lu Cheng
@@ -107,7 +113,7 @@ All deadlines are at **11:59 PM (Anywhere on Earth)** unless otherwise noted.
 - Shicheng Fan,	University of Illinois Chicago
 - Shu Wan,	Arizona State University
 - Tom Heffernan, Worcester Polytechnic Institute
-- Weiyi Qin,	Rutgets University
+- Weiyi Qin,	Rutgers University
 - Yu Mao,	City University of Hong Kong
 - Yunfan Hu,	Amazon
 - Josh Rountree, Massachusetts Institute of Technology
