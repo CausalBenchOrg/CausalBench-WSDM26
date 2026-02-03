@@ -9,7 +9,8 @@
 The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/), on February 26, 2026, in Boise, Idaho, USA.
 
 ### Workshop Schedule
-| Time          | Session |
+TBA
+<!-- | Time          | Session |
 |---------------|---------|
 | 09:00–09:40   | **Keynote:** Evaluating Causal Assistants |
 | 09:40–10:00   | Ahmet Kapkic et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
@@ -24,7 +25,7 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | 13:20–13:40   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
 | 13:40–14:00   | Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
 | 14:00–14:20   | Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
-| 14:20–14:30   | **Closing Discussion** |
+| 14:20–14:30   | **Closing Discussion** | -->
 
 
 ### Keynote - **Evaluating Causal Assistants**
