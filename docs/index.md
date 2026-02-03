@@ -9,7 +9,23 @@
 The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/), on February 26, 2026, in Boise, Idaho, USA.
 
 ### Workshop Schedule
-TBA
+| Time          | Session |
+|---------------|---------|
+| 09:00–09:40   | **Keynote:** Evaluating Causal Assistants |
+| 09:40–10:00   | Ahmet Kapkic et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
+| 10:00–10:20   | Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
+| 10:20–10:40   | Pradeepthi Mallappa — *Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG* |
+| 10:40–11:00   | **Coffee Break** |
+| 11:00–11:20   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* |
+| 11:20–11:40   | Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
+| 11:40–12:00   | Jundong Li — *Learning Causality with Graphs* |
+| 12:00–13:00   | **Lunch Break** |
+| 13:00–13:20   | Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* |
+| 13:20–13:40   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
+| 13:40–14:00   | Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
+| 14:00–14:20   | Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
+| 14:20–14:30   | **Closing Discussion** |
+
 
 ### Keynote - **Evaluating Causal Assistants**
 By Vasilis Syrgkanis - Stanford University
