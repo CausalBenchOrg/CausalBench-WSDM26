@@ -8,7 +8,7 @@
 ## Schedule
 The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/), on **February 26, 2026**, in Boise, Idaho, USA.
 
-| <div style="width:200px">Time</div>   | Session |
+<!-- | <div style="width:200px">Time</div>   | Session |
 |---------------|---------|
 | 09:00-09:05   | **Introductions** |
 | 09:05–10:05   | **Keynote:** Evaluating Causal Assistants |
@@ -25,7 +25,7 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | 14:25–14:45   | Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
 | 14:45–15:05   | Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
 | 15:05–15:30   | **Closing Discussion** |
-| 15:30   | **Coffee Break** |
+| 15:30   | **Coffee Break** | -->
 
 ### Keynote - **Evaluating Causal Assistants**
 By Vasilis Syrgkanis - Stanford University
