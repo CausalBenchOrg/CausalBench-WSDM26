@@ -12,15 +12,15 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | <div style="width:200px">Time</div>   | Session |
 |---------------|---------|
 | 09:00-09:05   | **Introductions** |
-| 09:05–10:05   | **Keynote:** Evaluating Causal Assistants |
-| 10:05–10:30   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
+| 09:05–10:10   | **Keynote:** Evaluating Causal Assistants |
+| 10:10–10:30   | Jundong Li — *Learning Causality with Graphs* |
 | 10:30-11:00   | **Coffee Break** |
-| 11:00–11:20   | Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
-| 11:20–11:40   | Pradeepthi Mallappa — *Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG* |
-| 11:40–12:00   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* |
-| 12:00–12:20   | Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
-| 12:20-12:40   | Jundong Li — *Learning Causality with Graphs* |
-| 12:40–13:45   | **Lunch Break** |
+| 11:00–11:25   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
+| 11:25–11:45   | Pradeepthi Mallappa — *Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG* |
+| 11:45–12:05   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* |
+| 12:05–12:25   | Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
+| 12:25-12:45   | Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
+| 12:45–13:45   | **Lunch Break** |
 | 13:45–14:05   | Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* |
 | 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
 | 14:25–14:45   | Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
