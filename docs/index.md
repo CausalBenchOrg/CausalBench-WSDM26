@@ -12,7 +12,7 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | <div style="width:200px">Time</div>   | Session |
 |---------------|---------|
 | 09:00-09:05   | **Introductions** |
-| 09:05–10:10   | **Keynote:** Evaluating Causal Assistants |
+| 09:05–10:10   | **Keynote:** Vasilis Syrgkanis - Evaluating Causal Assistants |
 | 10:10–10:30   | Jundong Li — *Learning Causality with Graphs* |
 | 10:30-11:00   | **Coffee Break** |
 | 11:00–11:25   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
