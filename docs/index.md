@@ -17,10 +17,9 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | 10:10–10:30   | Jundong Li — *CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching* |
 | 10:30-11:00   | **Coffee Break** |
 | 11:00–11:25   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
-| 11:25–11:45   | Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
-| 11:45–12:05   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* |
-| 12:05–12:25   | Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
-| 12:25-12:45   | - |
+| 11:25–11:55   | Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
+| 11:55–12:20   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* | 
+| 12:20-12:45   | Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
 | 12:45–13:45   | **Lunch Break** |
 | 13:45–14:05   | Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* | 
 | 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
