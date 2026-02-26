@@ -20,15 +20,15 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | 11:25–11:45   | Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
 | 11:45–12:05   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* |
 | 12:05–12:25   | Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
-| 12:25-12:45   | Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* |
+| 12:25-12:45   | - |
 | 12:45–13:45   | **Lunch Break** |
-| 13:45–14:05   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
-| 14:05–14:25   | Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
-| 14:25–14:45   | Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
-| 14:45–15:05   | Pradeepthi Mallappa — *Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG* |
-| 15:05–15:30   | **Round Table Discussions** |
-| 15:30   | **Coffee Break** |
-
+| 13:45–14:05   | Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* | 
+| 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
+| 14:25–14:45   | Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
+| 14:45–15:05   | Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
+| 15:05–15:30   | Pradeepthi Mallappa — *Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG* |
+| 15:30 - 16:30  | **Coffee Break** |
+| 16:30 - 17:30  | **Round Table Discussions** |
 ### Keynote - **Evaluating Causal Assistants**
 By Vasilis Syrgkanis - Stanford University
 
