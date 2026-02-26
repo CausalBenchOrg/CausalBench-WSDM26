@@ -28,6 +28,7 @@ The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/)
 | 15:05–15:30   | Pradeepthi Mallappa — *Trust but Verify: Benchmarking Causal Verification Layers for Detecting Irrelevant and Hallucinated Responses in Medical RAG* |
 | 15:30 - 16:30  | **Coffee Break** |
 | 16:30 - 17:30  | **Round Table Discussions** |
+
 ### Keynote - **Evaluating Causal Assistants**
 By Vasilis Syrgkanis - Stanford University
 
