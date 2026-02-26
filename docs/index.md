@@ -9,6 +9,7 @@
 The workshop will take place during [WSDM'26](https://wsdm-conference.org/2026/), on **February 26, 2026**, in Boise, Idaho, USA.
 **Location:** Boise Center, Room 410A.
 
+
 |<div style="width:200px">Time</div>| Session |
 |---------------|---------|
 | 09:00-09:05   | **Introductions** |
