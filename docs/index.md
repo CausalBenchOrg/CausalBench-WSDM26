@@ -11,7 +11,7 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 **Location:** Boise Center, Room 410A.
 
 
-|<div style="width:200px">Time</div>| Session |
+|<div style="width:200px">Time</div>| **Morning Session** — Session Chair: Ruocheng Guo |
 |---------------|---------|
 | 09:00-09:05   | **Introductions** |
 | 09:05–10:10   | **Keynote:** Vasilis Syrgkanis - Evaluating Causal Assistants |
@@ -22,12 +22,16 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 | 11:55–12:20   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* | 
 | 12:20-12:45   | _Invited Talk:_ Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
 | 12:45–13:45   | **Lunch Break** |
+
+| <div style="width:200px">Time</div> | **Afternoon Session** — Session Chair: Ahmet Kapkiç |
+|---------------|---------|
 | 13:45–14:05   | _Invited Talk:_ Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* | 
 | 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
 | 14:25–14:45   | _Invited Talk:_ Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
 | 14:45–15:05   | _Invited Talk:_ Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
 | 15:05–15:30   | **Round Table Discussions** |
 | 15:30-16:30  | **Coffee Break** |
+
 
 ### Keynote - **Evaluating Causal Assistants**
 By Vasilis Syrgkanis - Stanford University
