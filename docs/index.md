@@ -7,6 +7,7 @@
 
 ## Schedule
 The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/), on **February 26, 2026**, in Boise, Idaho, USA. Thank you for attending!
+
 **Location:** Boise Center, Room 410A.
 
 
@@ -26,7 +27,7 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 | 14:25–14:45   | _Invited Talk:_ Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
 | 14:45–15:05   | _Invited Talk:_ Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
 | 15:05–15:30   | **Round Table Discussions** |
-| 15:30 - 16:30  | **Coffee Break** |
+| 15:30-16:30  | **Coffee Break** |
 
 ### Keynote - **Evaluating Causal Assistants**
 By Vasilis Syrgkanis - Stanford University
