@@ -11,7 +11,7 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 **Location:** Boise Center, Room 410A.
 
 
-|<div style="width:200px">Time</div>| **Morning Session** — Session Chair: Ruocheng Guo |
+|<div style="width:150px">Time</div>| **Morning Session** — Session Chair: Ruocheng Guo |
 |---------------|---------|
 | 09:00-09:05   | **Introduction** |
 | 09:05–10:10   | **Keynote:** Vasilis Syrgkanis - Evaluating Causal Assistants |
