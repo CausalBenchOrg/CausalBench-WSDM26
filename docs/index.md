@@ -17,18 +17,18 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 | 09:05–10:10   | **Keynote:** Vasilis Syrgkanis - Evaluating Causal Assistants |
 | 10:10–10:30   | _Invited Talk:_ Jundong Li — *CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching* |
 | 10:30-11:00   | **Coffee Break** |
-| 11:00–11:25   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* |
+| 11:00–11:25   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* ([Interactive Slides](https://colab.research.google.com/drive/1A4IAIIKhMoDw2LOfLp5X24Ui2B3A2a0r?usp=sharing))|
 | 11:25–11:55   | _Invited Talk:_ Raha Morafah — *Causal Reasoning in the Era of Large Language Models* |
 | 11:55–12:20   | Hitesh Wadhwa et al. — *From RAGs to Rich Parameters: Probing How Language Models Utilize External Knowledge over Parametric Information for Factual Queries* | 
-| 12:20-12:45   | _Invited Talk:_ Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* |
+| 12:20-12:45   | _Invited Talk:_ Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* ([Slides](https://docs.google.com/presentation/d/1Aw128_-FXXXeZZJzahk5JSwQr3YHYvwA))|
 | 12:45–13:45   | **Lunch Break** |
 
 | <div style="width:200px">Time</div> | **Afternoon Session** — Session Chair: Ahmet Kapkiç |
 |---------------|---------|
 | 13:45–14:05   | _Invited Talk:_ Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* | 
 | 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* |
-| 14:25–14:45   | _Invited Talk:_ Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* |
-| 14:45–15:05   | _Invited Talk:_ Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* |
+| 14:25–14:45   | _Invited Talk:_ Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* ([Slides](https://drive.google.com/file/d/1bbQVHxhWIsuAprAyIcwSzzth4k0xzx06))|
+| 14:45–15:05   | _Invited Talk:_ Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* ([Slides](https://docs.google.com/presentation/d/1af-a8Gm2Dzub6LMXT2dJpUOGyZk3nyw5))|
 | 15:05–15:30   | **Round Table Discussions** |
 | 15:30-16:30  | **Coffee Break** |
 
