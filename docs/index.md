@@ -23,7 +23,7 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 | 12:20-12:45   | _Invited Talk:_ Lu Cheng — *Causal Discovery for Biology: From Molecular to Disease Networks* ([Slides](https://docs.google.com/presentation/d/1Aw128_-FXXXeZZJzahk5JSwQr3YHYvwA))|
 | 12:45–13:45   | **Lunch Break** |
 
-| <div style="width:200px">Time</div> | **Afternoon Session** — Session Chair: Ahmet Kapkiç |
+| <div style="width:150px">Time</div> | **Afternoon Session** — Session Chair: Ahmet Kapkiç |
 |---------------|---------|
 | 13:45–14:05   | _Invited Talk:_ Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* | 
 | 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* ([Slides](https://drive.google.com/file/d/1TrTSebAb7B3kFedzv2ObvJ7Z4MubHi8j))|
