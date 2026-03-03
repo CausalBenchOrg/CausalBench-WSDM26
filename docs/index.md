@@ -25,7 +25,7 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 
 | <div style="width:150px">Time</div> | **Afternoon Session** — Session Chair: Ahmet Kapkiç |
 |---------------|---------|
-| 13:45–14:05   | _Invited Talk:_ Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* | 
+| 13:45–14:05   | _Invited Talk:_ Junzhe Zhang et al. — *Confounding Robust Deep Reinforcement Learning: A Causal Approach* ([Slides](https://drive.google.com/file/d/1CXrVLvStQwy4XDftlurKrZ8euOPmoFn3))|
 | 14:05–14:25   | Mahmudur Rahman et al. — *ColdNet: Neural Causal Inference Under Extreme Imbalance and Sparsity* ([Slides](https://drive.google.com/file/d/1TrTSebAb7B3kFedzv2ObvJ7Z4MubHi8j))|
 | 14:25–14:45   | _Invited Talk:_ Shuhan Yuan & Lu Zhang — *A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation* ([Slides](https://drive.google.com/file/d/1bbQVHxhWIsuAprAyIcwSzzth4k0xzx06))|
 | 14:45–15:05   | _Invited Talk:_ Reza Zafarani — *Evaluation in Social Media Research: Challenges and Opportunities* ([Slides](https://docs.google.com/presentation/d/1af-a8Gm2Dzub6LMXT2dJpUOGyZk3nyw5))|
