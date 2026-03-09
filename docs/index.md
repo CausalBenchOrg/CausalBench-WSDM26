@@ -14,7 +14,7 @@ The workshop **took** place during [WSDM'26](https://wsdm-conference.org/2026/),
 |<div style="width:150px">Time</div>| **Morning Session** — Session Chair: Ruocheng Guo |
 |---------------|---------|
 | 09:00-09:05   | **Introduction** |
-| 09:05–10:10   | **Keynote:** Vasilis Syrgkanis - Evaluating Causal Assistants |
+| 09:05–10:10   | **Keynote:** Vasilis Syrgkanis - Evaluating Causal Assistants ([Slides](https://drive.google.com/file/d/1a0qvcs4-TOI3Q51JqYLDQAfVZPRL8ypF))|
 | 10:10–10:30   | _Invited Talk:_ Jundong Li — *CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching* |
 | 10:30-11:00   | **Coffee Break** |
 | 11:00–11:25   | Ahmet Kapkiç et al. — *CausalBench+: Causal-Informed Machine Learning Benchmarking* ([Interactive Slides](https://colab.research.google.com/drive/1A4IAIIKhMoDw2LOfLp5X24Ui2B3A2a0r?usp=sharing))|
